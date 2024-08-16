@@ -3,4 +3,6 @@ AE App Labs is an indie design studio that creates unique UI UX designs, technic
 <br /><br />
 In addition, talk to us for technical consultation for any web or mobile projects.
 <br /><br />
-Website: [https://ae-app-labs.github.io/](https://ae-app-labs.github.io/)
+
+Website: https://ae-app-labs.github.io  
+YouTube Channel: https://www.youtube.com/@aeapplabs
